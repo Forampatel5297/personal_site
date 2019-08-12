@@ -1,0 +1,36 @@
+
+header{
+    padding: 20px;
+    background-color: gray;
+
+}
+
+a{
+    display: inline-block;
+    padding: 10px;
+    text-align: right;
+    text-decoration: #687886;
+    color: white;
+    border-bottom: 1px solid gray;
+}
+a:hover{
+    color: #eee;
+    background-color: black;
+}
+
+h1{
+font-style: italic;
+color: green;
+
+}
+h1:hover{
+
+color: red;
+background-color: cornflowerblue;
+}
+
+
+
+
+
+
